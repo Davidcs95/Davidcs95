@@ -15,8 +15,7 @@ I'm a software development student passionate about creating modern and function
 ### 📫 How to contact me?
 
 * **GitHub:** [@Davidcs95](https://github.com/Davidcs95)!--
-**Davidcs95/Davidcs95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 
