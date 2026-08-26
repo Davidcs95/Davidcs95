@@ -10,7 +10,7 @@ I'm a software development student passionate about creating modern and function
 
 ### 🚀 Featured Projects
 
-**[Filomena Pet Store (View Website)](https://filomena-pet-store.netlify.app/)** - ([GitHub Repository](https://github.com/Davidcs95/miappnode)): A full-stack e-commerce web application for a pet store. It features a shopping cart, user management (login/registration), and an administration panel, integrating a React frontend (hosted by Netlify) with a Node.js/Express REST API (hosted by Render) and a MongoDB Atlas database.
+**[Filomena Pet Store (View Website)](https://filomena-pet-store.netlify.app/)** - https://filomena-store-j0p4obhy1-davidolayacs95-4206.vercel.app/ - ([GitHub Repository](https://github.com/Davidcs95/miappnode)): A full-stack e-commerce web application for a pet store. It features a shopping cart, user management (login/registration), and an administration panel, integrating a React frontend (hosted by Netlify) with a Node.js/Express REST API (hosted by Render) and a MongoDB Atlas database.
 
 ### 📫 How to contact me?
 
